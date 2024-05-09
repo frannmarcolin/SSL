@@ -1,2 +1,2 @@
 # SSL
-Este es mi repositorio donde almacenare contenido de Sintaxis y Semántica de los Lenguajes.
+Este es mi repositorio donde almacenare contenido de la materia Sintaxis y Semántica de los Lenguajes.
